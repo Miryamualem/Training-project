@@ -1,0 +1,4 @@
+﻿  ex4.cpp
+C:\Users\מרים\source\repos\TryDontGiveUp\TryDontGiveUp\ex4.cpp(21,6): warning C4101: 'x': unreferenced local variable
+C:\Users\מרים\source\repos\TryDontGiveUp\TryDontGiveUp\ex4.cpp(40,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  TryDontGiveUp.vcxproj -> C:\Users\מרים\source\repos\TryDontGiveUp\Debug\TryDontGiveUp.exe
