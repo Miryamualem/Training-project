@@ -39,7 +39,7 @@
 //}
 void main()
 {
-	int  b;
+	int  b=7;
 	Header head;
 	stack_init(&head);
 	/*AddItem(&head);
