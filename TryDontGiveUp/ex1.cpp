@@ -1,7 +1,7 @@
-//#include "stdio.h"
-//#include "stdlib.h"
-//#include "string.h"
-//#include "Header.h"
+#include "stdio.h"
+#include "stdlib.h"
+#include "string.h"
+#include "Header.h"
 // בודק כמה אברים בדר עולה וכמה בסדר יורד
 //void AddItem(Header* head)
 //{
@@ -42,10 +42,9 @@
 //
 //}
 //
-//void main()
-//{
-//	Header head;
-//	stack_init(&head);
-//	AddItem(&head);
-//	printf("\n%d", downup(&head));
-//}
+void main()
+{
+	Header head;
+	stack_init(&head);
+
+}
