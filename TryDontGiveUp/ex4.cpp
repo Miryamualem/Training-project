@@ -1,7 +1,7 @@
-//#include "stdio.h"
-//#include "stdlib.h"
-//#include "string.h"
-//#include "Header.h"
+#include "stdio.h"
+#include "stdlib.h"
+#include "string.h"
+#include "Header.h"
 // בודק את המקסימום במחסנית
 //void AddItem(Header* head)
 //{
@@ -37,13 +37,14 @@
 //
 //
 //}
-//void main()
-//{
-//	int  b;
-//	Header head;
-//	stack_init(&head);
-//	AddItem(&head);
-//	b = MaxStuck(&head);
-//	printf("Thr max of stuck is:%d\n", b);
-//	
-//}
+void main()
+{
+	int  b;
+	Header head;
+	stack_init(&head);
+	/*AddItem(&head);
+	b = MaxStuck(&head);*/
+	printf("Thr max of stuck is:%d\n", b);
+	printf("DO u see this?");
+	
+}
